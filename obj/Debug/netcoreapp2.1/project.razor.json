@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/isabellayr/Desktop/Haust18/VEFÞ/FYRIRPRÓFIÐ/Verkefni/LargeAssignment1/template/template.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
